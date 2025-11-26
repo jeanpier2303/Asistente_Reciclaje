@@ -1,1 +1,9 @@
+# Archivo de variables de entorno (Claves secretas, etc.)
 .env
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+env/
